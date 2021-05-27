@@ -80,10 +80,11 @@ export default {
   },
   methods:{
       async onSubmit(){
+        // console.log(this.GRIDSOME_API_URL)
         try{
             await axios({
                 method:'POST',
-                url:'http://localhost:1337/contacts',
+                url:this.GRIDSOME_API_URL+'/contacts',
                 data:this.form
             })
             window.alert('发送成功')

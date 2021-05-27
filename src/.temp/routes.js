@@ -1,9 +1,9 @@
-const c1 = () => import(/* webpackChunkName: "page--src-templates-tag-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\my-gridsome-work\\src\\templates\\Tag.vue")
-const c2 = () => import(/* webpackChunkName: "page--src-templates-post-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\my-gridsome-work\\src\\templates\\Post.vue")
-const c3 = () => import(/* webpackChunkName: "page--src-pages-contact-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\my-gridsome-work\\src\\pages\\Contact.vue")
-const c4 = () => import(/* webpackChunkName: "page--src-pages-about-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\my-gridsome-work\\src\\pages\\About.vue")
-const c5 = () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\my-gridsome-work\\node_modules\\gridsome\\app\\pages\\404.vue")
-const c6 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\my-gridsome-work\\src\\pages\\Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src-templates-tag-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\blog-frontend\\src\\templates\\Tag.vue")
+const c2 = () => import(/* webpackChunkName: "page--src-templates-post-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\blog-frontend\\src\\templates\\Post.vue")
+const c3 = () => import(/* webpackChunkName: "page--src-pages-contact-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\blog-frontend\\src\\pages\\Contact.vue")
+const c4 = () => import(/* webpackChunkName: "page--src-pages-about-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\blog-frontend\\src\\pages\\About.vue")
+const c5 = () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\blog-frontend\\node_modules\\gridsome\\app\\pages\\404.vue")
+const c6 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "D:\\XiaoRong\\OneSelfStudy\\ALGBFE\\practiceItem\\VUE_module_4\\blog-frontend\\src\\pages\\Index.vue")
 
 export default [
   {
